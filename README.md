@@ -1,10 +1,6 @@
-# Hi 👋, I'm Mark Bennett N. Pineda
+# Hi , I'm Mark Bennett N. Pineda
 
 ### A Javascript developer
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bnetpineda&label=Profile views&color=0e75b6&style=flat" alt="bnetpineda" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bnetpineda" alt="bnetpineda" /></a> </p>
 
 - 🔭 I'm currently working on **A Tanstack E-Commerce and A Web Game Project**
 
