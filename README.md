@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **markbennettpineda@gmail.com**
 
-- ⚡ Fun fact **“I’m a weightlifter who usually lives for heavy squats and metcons but I just ran a FULL marathon in 5 hours and 42 minutes! **
+- ⚡ Fun fact “I’m a weightlifter who usually lives for heavy squats and metcons but I just ran a FULL marathon in 5 hours and 42 minutes! 
 
 - 👨‍💻 All of my projects are available at **[https://bnetpineda.dev](https://bnetpineda.dev)**
 
